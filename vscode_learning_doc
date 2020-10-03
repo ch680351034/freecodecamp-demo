@@ -1,0 +1,15 @@
+ctrl+b  ======> toggle menu off
+shift+ctrl+p ====> palet for TOGLE ZEN MODE
+*emmet* will give us snippet to write code faster
+settings ===> font size, zoom level,wordwrap,Cursor Blinking
+exeTENSIONS
+  1. cobol2 - colour themes
+  2. prettier - code formatter
+  3. Live Server - it privides server with localhost to run code
+TERMINAL
+  terminal open with existing shell ex: for windows that will be powershell
+  by clicking on + icon , we can open n number of terminal
+  we can split terminal by split option
+  kill terminal
+  we can maxmize the terminal where we dont have file to shown
+  
